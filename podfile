@@ -18,6 +18,6 @@ target 'PixImage' do
   pod 'ZLPhotoBrowser', '4.1.7'
   pod 'SwiftEntryKit'
   pod 'TextAttributes'
-	pod 'Kingfisher'
+
 end
 	

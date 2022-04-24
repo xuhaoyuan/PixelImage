@@ -1,0 +1,23 @@
+source 'https://cdn.cocoapods.org/' # CDN加速
+platform :ios, '11.0'
+use_frameworks!
+inhibit_all_warnings!
+
+target 'PixImage' do
+
+  pod 'PKHUD'
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'SnapKit'
+  pod 'Disk'
+  pod 'DeviceKit'
+  pod 'XHYCategories'
+  pod 'UITextView+Placeholder'
+  pod 'RxKeyboard'
+  pod 'JXPhotoBrowser'
+  pod 'ZLPhotoBrowser', '4.1.7'
+  pod 'SwiftEntryKit'
+  pod 'TextAttributes'
+	pod 'Kingfisher'
+end
+	
